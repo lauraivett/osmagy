@@ -1,0 +1,4 @@
+img01.jpg 780 x 520 képpont	
+tn-img01.jpg 180 x 120 képpont
+
+9 db kép dummyimage
